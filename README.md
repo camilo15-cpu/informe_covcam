@@ -1,16 +1,19 @@
-# React + Vite
+# Análisis Legal — Caso Banco Estado Chile 2020
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Asignatura:** TI3034 — Fundamentos de Seguridad de la Información  
+**Estudiante:** Camilo Covarrubias  
+**Docente:** Rubén Schnettler L. — INACAP Valparaíso  
+**Evaluación:** Sumativa N°2 — Unidad 2  
 
-Currently, two official plugins are available:
+## Sitio desplegado
+[https://informe-covcam.vercel.app](https://informe-covcam.vercel.app)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
-
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Contenido del informe
+1. Resumen Ejecutivo
+2. Marco Normativo Nacional e Internacional
+3. Tipificación de Delitos — Ley 21.459
+4. Comparación de Marcos Regulatorios
+5. Responsabilidades Legales de los Actores
+6. Tratamiento de Datos Personales — Ley 19.628
+7. Conclusiones y Recomendaciones
+8. Bitácora de Uso de IA
