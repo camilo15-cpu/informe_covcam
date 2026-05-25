@@ -1,6 +1,8 @@
 import { Shield } from 'lucide-react'
 import Resumen from './components/Resumen'
 import Marco from './components/Marco'
+import Delitos from './components/Delitos'
+import Comparacion from './components/Comparacion'
 
 function App() {
   return (
@@ -22,6 +24,8 @@ function App() {
       <main className="flex-1 max-w-4xl mx-auto px-6 py-12">
         <Resumen />
         <Marco />
+        <Delitos />
+        <Comparacion />
       </main>
 
       <footer className="bg-slate-100 text-slate-600 text-sm py-4 px-6">
